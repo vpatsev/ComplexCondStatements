@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\bin\Debug\net9.0\06.DayOfWeek.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\refint\06.DayOfWeek.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\06.DayOfWeek.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\06.DayOfWeek\obj\Debug\net9.0\ref\06.DayOfWeek.dll
