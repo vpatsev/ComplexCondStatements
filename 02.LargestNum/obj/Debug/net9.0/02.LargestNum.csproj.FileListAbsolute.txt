@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\bin\Debug\net9.0\02.LargestNum.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\bin\Debug\net9.0\02.LargestNum.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\bin\Debug\net9.0\02.LargestNum.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\bin\Debug\net9.0\02.LargestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\bin\Debug\net9.0\02.LargestNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\refint\02.LargestNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\02.LargestNum.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\02.LargestNum\obj\Debug\net9.0\ref\02.LargestNum.dll
