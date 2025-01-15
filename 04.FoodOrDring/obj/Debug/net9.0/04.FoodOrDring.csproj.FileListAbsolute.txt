@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\bin\Debug\net9.0\04.FoodOrDring.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\bin\Debug\net9.0\04.FoodOrDring.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\bin\Debug\net9.0\04.FoodOrDring.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\bin\Debug\net9.0\04.FoodOrDring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\bin\Debug\net9.0\04.FoodOrDring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\refint\04.FoodOrDring.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\04.FoodOrDring.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\04.FoodOrDring\obj\Debug\net9.0\ref\04.FoodOrDring.dll

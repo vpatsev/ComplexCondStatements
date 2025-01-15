@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\bin\Debug\net9.0\03.BonusScore.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\bin\Debug\net9.0\03.BonusScore.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\bin\Debug\net9.0\03.BonusScore.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\bin\Debug\net9.0\03.BonusScore.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\bin\Debug\net9.0\03.BonusScore.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\refint\03.BonusScore.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\03.BonusScore.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\03.BonusScore\obj\Debug\net9.0\ref\03.BonusScore.dll

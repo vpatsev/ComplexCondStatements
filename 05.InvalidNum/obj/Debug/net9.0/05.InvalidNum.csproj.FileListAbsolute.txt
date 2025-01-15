@@ -1,0 +1,15 @@
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.AssemblyInfoInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.AssemblyInfo.cs
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.csproj.CoreCompileInputs.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.sourcelink.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\bin\Debug\net9.0\05.InvalidNum.exe
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\bin\Debug\net9.0\05.InvalidNum.deps.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\bin\Debug\net9.0\05.InvalidNum.runtimeconfig.json
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\bin\Debug\net9.0\05.InvalidNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\bin\Debug\net9.0\05.InvalidNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\refint\05.InvalidNum.dll
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.pdb
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\05.InvalidNum.genruntimeconfig.cache
+C:\Users\AORUS\Desktop\QA\Programming for QA\repos\ComplexCondStatements\05.InvalidNum\obj\Debug\net9.0\ref\05.InvalidNum.dll
